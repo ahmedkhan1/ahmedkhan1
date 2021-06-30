@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Ahmed khan- A Software Engineer with 3 years of experience working as a Full Stack Web developer. I am also a tech blogger and open source contributor for Angular, docker and firebase.
 
-- 🔭 I’m currently working in Arpatech as an Associate JavaScript Developer.
+- 🔭 I’m currently working in Realade as a Software Engineer.
 - 💬 Ask me about Javascript / Typescript, Angular, React, Vue, Redux, Rxjs, Nodejs/ Expressjs, Mongodb, Docker, Microservice
 - 📫 How to reach me: <a href="https://www.facebook.com/ahmed.rising">Facebook</a>, <a href="https://www.linkedin.com/in/mr-ahmed-khan/">Linkedin</a>,<a href="https://twitter.com/50shadeofkhan"> Twitter</a>,<a href="mailto:ahmed_khan019@hotmail.com"> Email</a>
 <!--
