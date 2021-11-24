@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ahmed khan- A Software Engineer with 3 years of experience working as a Full Stack Web developer. I am also a tech blogger and open source contributor for Angular, docker and firebase.
+My name is Ahmed khan- A Software Engineer with 4 years of experience working as a Full Stack Web developer. I am also a tech blogger and open source contributor for Angular, docker and firebase.
 
 - 🔭 I’m currently working in Realade as a Software Engineer.
 - 💬 Ask me about Javascript / Typescript, Angular, React, Vue, Redux, Rxjs, Nodejs/ Expressjs, Mongodb, Docker, Microservice
