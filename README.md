@@ -4,6 +4,8 @@ My name is Ahmed khan- A Software Engineer with 4+ years of experience working a
 - 🔭 I’m currently working in Realade as a Software Engineer.
 - 💬 Ask me about Javascript / Typescript, Angular, React, Vue, Redux, Rxjs, Nodejs/ Expressjs, Mongodb, Docker, Microservice
 - 📫 How to reach me: <a href="https://www.facebook.com/ahmed.rising">Facebook</a>, <a href="https://www.linkedin.com/in/mr-ahmed-khan/">Linkedin</a>,<a href="https://twitter.com/50shadeofkhan"> Twitter</a>,<a href="mailto:ahmed_khan019@hotmail.com"> Email</a>
+- 📰 Checkout my articles: <a href="https://medium.com/@mrahmedkhan019">Medium</a>
+- 🤝 See my contributions: <a href="https://stackoverflow.com/users/10178278/mr-khan">Stackoverflow</a>
 <!--
 **ahmedkhan1/ahmedkhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
